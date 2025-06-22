@@ -1,0 +1,8 @@
+[general]
+name=AdaptiveSimplificationPlugin
+description=A plugin to simplify QGIS layers using a C++ library
+version=1.0
+qgisMinimumVersion=3.0
+qgisMaximumVersion=3.99
+author=Ruslan Nemchaninov
+email=89201003349@mail.ru
